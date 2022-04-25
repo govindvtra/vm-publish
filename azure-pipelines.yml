@@ -5,7 +5,6 @@
 
 trigger:
 - prod
-
 pool:
   vmImage: 'windows-latest'
 
